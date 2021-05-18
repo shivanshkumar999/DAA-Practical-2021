@@ -30,6 +30,12 @@
 
 ## Analysis for Red Black Tree
 <img src="https://www.wisdomjobs.com/tutorials/red-black-tree.png" align="right">
+```A red–black tree is a kind of self-balancing binary search tree in computer science. Each node of the binary tree has an extra bit, and that bit is often interpreted as the color (red or black) of the node. These color bits are used to ensure the tree remains approximately balanced during insertions and deletions.```
+
+### Insertion Happens in this way
+<img src="https://iq.opengenus.org/content/images/2018/07/red-black-tree_-insertion.jpg align="center">
+ 
+
 
 **<div align="center">~~_______________________________________________________________________~~
 <br> _Hello Readers_ <br>
