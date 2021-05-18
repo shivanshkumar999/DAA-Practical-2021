@@ -13,15 +13,15 @@
 <tbody>
 <tr>
   <td>1.</td>
-  <td><a href="https://github.com/shivanshkumar999/DAA-Practical-File/blob/main/Insertion%20Sort(1.a).cpp">Red Black Tree</a></td>
+  <td>Red Black Tree</a></td>
 </tr>
 <tr>
   <td>2.</td>
-  <td><a href="https://github.com/shivanshkumar999/DAA-Practical-File/blob/main/Minimum%20Spanning%20Tree%20(9%20que).cpp">Minimum Spanning Tree</td>
+  <td>Minimum Spanning Tree</td>
 </tr>  
 <tr>
   <td>3.</td>
-  <td><a href="https://github.com/shivanshkumar999/DAA-Practical-File/blob/main/Comparisons%20of%20different%20sorts.cpp">Implementing Different Sorts</td>
+  <td>Implementing Different Sorts</td>
 </tr>
 </tbody>
 </table>
@@ -214,3 +214,5 @@ The key process in quickSort is partition(). Target of partitions is, given an a
  >- Insertion sort: It is more efficient in practice on small arrays than asymptotically fast algorithms like QuickSort and HeapSort, because of better constant. This is why it is actually used in the implementation of std::sort C++ sorting function at least in GCC, and std::sort is a function that is probably used in more than 90% non-trivial programs in C++ - virtually everywhere.
  
 
+```
+```
