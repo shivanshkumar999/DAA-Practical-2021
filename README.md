@@ -191,5 +191,8 @@ The key process in quickSort is partition(). Target of partitions is, given an a
  <br>
  
  
- 
+ >- #### Complexities for **DIFFERENT SORTS**
+ <br>
+ <img src="
+
 
