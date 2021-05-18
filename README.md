@@ -169,23 +169,33 @@ The key process in quickSort is partition(). Target of partitions is, given an a
 
   - ## Examples of Different Sorts
  <br>
+ 
  **BUBBLE SORT**
+ 
  <br>
  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2014/02/bubble-sort1.png">
  <br>
+ 
  **SELECTION SORT**
+ 
  <br>
  <img src="https://runestone.academy/runestone/books/published/pythonds/_images/selectionsortnew.png">
  <br>
-  **INSERTION SORT**
+ 
+ **INSERTION SORT**
+ 
  <br>
  <img src="https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png">
  <br>
-  **MERGE SORT**
+ 
+ **MERGE SORT**
+ 
  <br>
  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Merge-Sort-Tutorial.png">
  <br>
-  **QUIC SORT**
+ 
+ **QUICK SORT**
+ 
  <br>
  <img src="https://book.huihoo.com/data-structures-and-algorithms-with-object-oriented-design-patterns-in-c++/html/img2145.gif">
  <br>
@@ -193,6 +203,14 @@ The key process in quickSort is partition(). Target of partitions is, given an a
  
  >- #### Complexities for **DIFFERENT SORTS**
  <br>
- <img src="
-
+ <img src="https://github.com/shivanshkumar999/DAA-Practical-2021/blob/main/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png?raw=true">
+ <br>
+ 
+ > **Applications :**
+ >- Merge Sort: Databases use an external merge sort to sort sets of data that are too large to be loaded entirely into memory. The driving factor in this sort is the reduction in the number of disk I/Os.
+ >- Bubble Sort: Bubble sort is used in programming TV remote to sort channels on the basis of longer viewing time.
+ >- Quick Sort: Sports scores are organised by quick sort on the basis of win-loss ratio.
+ >- Selection Sort: K12 education portal allows sorting list of pupils alphabetically through selection sort.
+ >- Insertion sort: It is more efficient in practice on small arrays than asymptotically fast algorithms like QuickSort and HeapSort, because of better constant. This is why it is actually used in the implementation of std::sort C++ sorting function at least in GCC, and std::sort is a function that is probably used in more than 90% non-trivial programs in C++ - virtually everywhere.
+ 
 
