@@ -56,7 +56,7 @@ These color bits are used to ensure the tree remains approximately balanced duri
  
 >- #### Complexity for **INSERTION**
   <br>
-  Average and Worst case insertion time complexity: **Θ(log n)**
+  Average and Worst case insertion time complexity: Θ(log n)
 
   Average and Worst case Space complexity: **Θ(n)**
 
@@ -70,7 +70,7 @@ These color bits are used to ensure the tree remains approximately balanced duri
 
 >- #### Complexity for **DELETION**
   <br>
-  Average and Worst case deletion time complexity: **Θ(log n)**
+  Average and Worst case deletion time complexity: Θ(log n)
 
   Average and Worst case Space complexity: **Θ(n)**
 
@@ -82,14 +82,14 @@ These color bits are used to ensure the tree remains approximately balanced duri
 
 >- #### Complexity for **SEARCHING**
 <br>
-  Average and Worst case deletion time complexity: **Θ(log n)**
+  Average and Worst case deletion time complexity: Θ(log n)
 
   Average and Worst case Space complexity: **Θ(n)**
   
   <br>
   
   
-> **Applications** of Red- Black Tree :
+> #### **Applications** of Red- Black Tree :
 >- Most of the self-balancing BST library functions like map and set in C++ (OR TreeSet and TreeMap in Java) use Red-Black Tree.
 >- It is used to implement CPU Scheduling Linux. Completely Fair Scheduler uses it.
 >- Besides they are used in the K-mean clustering algorithm for reducing time complexity.
@@ -126,7 +126,7 @@ The time complexity of the Prim’s Algorithm is **O((V + E)logV)** because each
 
 <br>
 
-> **Applications** of Minimum Spanning Tree :
+> #### **Applications** of Minimum Spanning Tree :
 >- Minimum spanning trees are used for network designs (i.e. telephone or cable networks). 
 >- They are also used to find approximate solutions for complex mathematical problems like the Traveling Salesman Problem.
 >- Other, diverse applications include Cluster Analysis.
@@ -206,7 +206,7 @@ The key process in quickSort is partition(). Target of partitions is, given an a
  <img src="https://github.com/shivanshkumar999/DAA-Practical-2021/blob/main/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png?raw=true">
  <br>
  
- > **Applications :**
+ > #### **Applications :**
  >- Merge Sort: Databases use an external merge sort to sort sets of data that are too large to be loaded entirely into memory. The driving factor in this sort is the reduction in the number of disk I/Os.
  >- Bubble Sort: Bubble sort is used in programming TV remote to sort channels on the basis of longer viewing time.
  >- Quick Sort: Sports scores are organised by quick sort on the basis of win-loss ratio.
