@@ -1,4 +1,4 @@
- # **<div align="center" font-family="chiller">DAA PRACTICAL 2021</div>**
+ # **<div align="center" font-style="chiller">DAA PRACTICAL 2021</div>**
 
 ```
 ```
